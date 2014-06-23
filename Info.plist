@@ -75,6 +75,7 @@
 				<string>TEXT</string>
 				<key>public.filename-extension</key>
 				<array>
+					<string>db</string>
 					<string>sqlite</string>
 				</array>
 			</dict>
